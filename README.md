@@ -1,18 +1,40 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+<p align="center">
+    <a href="https://www.twitter.com/alexcamachogz">
+        <img src="Documentation/alex.png" alt="Alex Camacho"/>
+    </a>
+</p>
 
 # Magic 8 Ball
-
-## Our Goal
-
-The objective of this challenge is to apply the skills you learned in the Dicee tutorial and get you making an app with functionality all by yourself. There’s no new concepts here. But you’re flyin’ solo this time! Most of the programming skills are gained in the challenges rather than the tutorials. It’s when you’re using your new-found programming skills to bend the app to your will that you’re truly levelling up as a developer.
-
-## What you will create
-
-We’re going to make a Magic 8 Ball app. You can ask the app to make all your hard decisions! With this app in your pocket, you’ll always have an answer to life’s many conundrums!
+The objetive of this app is to apply the skills that I learned in the Dicee tutorial and make an app with functionality all by myself. The app that I developed here is a Magic 8 Ball, you can ask the app to make all your difficult decisions.
 
 
+## Preview
+With this app in your pocket, you’ll always have an answer to life’s many conundrums!
+<details>
+  <summary>📱 iPhone view</summary>
+  <img src="Documentation/magic-8-ball.png">
+</details>
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+## My process
 
-![End Banner](Documentation/readme-end-banner.png)
+### Built with
+* Swift
+* Xcode
+
+### What I learned
+* How to clone an existing Xcode project from GitHub.
+* Create an app with behaviour and functionality.
+* Create links between the Interface Builder files and code using IBActions and IBOutlets.
+* Get familiar with the Xcode code editor.
+* Learn to use comments to annotate code.
+* Understand and use Swift constants and variables.
+* Understand and use collection types such as Swift arrays.
+* Test and debug your app with the Xcode console.
+* Learn about randomisation and how to generate random numbers in Swift.
+
+### Useful resources
+* [Swift Loops](https://www.programiz.com/swift-programming/for-in-loop) - Used to learn about loops.
+* [App icon generator](https://appicon.co/#image-sets) - Used to generate all necessary assets.
+
+> This is a companion project to [The App Brewery's](https://www.appbrewery.co/) Complete App Development Bootcamp.
 
